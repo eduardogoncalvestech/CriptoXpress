@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CriptoXpress</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <img src="logo.png" alt="Logo CriptoXpress" class="logo" />
+    <h1>CriptoXpress</h1>
+    <textarea id="texto" placeholder="Digite seu texto aqui..."></textarea>
+    <input id="chave" placeholder="Chave secreta (16 caracteres)" maxlength="16" />
+    <div class="botoes">
+      <button onclick="criptografar()">Criptografar</button>
+      <button onclick="descriptografar()">Descriptografar</button>
+    </div>
+    <pre id="resultado"></pre>
+  </div>
+</body>
+</html>
