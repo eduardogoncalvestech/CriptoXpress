@@ -12,4 +12,4 @@
 - 💻 Interface web responsiva e fácil de usar
 - 📦 Código limpo, modular e pronto para evoluir
 
-https://github.com/eduardogoncalves1/CriptoXpress/blob/3ca77f4e6784547f6f0067ba6e82975cb63b1058/plataforma.png
+![Image Alt]([image_url](https://github.com/eduardogoncalves1/CriptoXpress/blob/3ca77f4e6784547f6f0067ba6e82975cb63b1058/plataforma.png))
