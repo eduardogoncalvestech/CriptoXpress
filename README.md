@@ -1,6 +1,6 @@
 # 🔐 CriptoXpress
 
-**CriptoXpress** é uma ferramenta leve e intuitiva para criptografar e descriptografar textos com segurança, usando apenas **HTML, CSS, JavaScript e Python puro** — sem frameworks, sem dependências externas no frontend, e com criptografia forte no terminal.
+**CriptoXpress** é uma ferramenta leve e intuitiva para criptografar e descriptografar textos com segurança e com criptografia forte no terminal.
 
 ---
 
