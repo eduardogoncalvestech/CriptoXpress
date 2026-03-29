@@ -13,6 +13,6 @@
 - 📦 Código limpo, modular e pronto para evoluir
 
 - Site para utilizar o CriptoXpress:
-- https://eduardogoncalves1.github.io/CriptoXpress/
+- [https://eduardogoncalves1.github.io/CriptoXpress/](https://eduardogoncalvestech.github.io/CriptoXpress/)
 
 ![Image Alt](plataforma.png)
